@@ -1,4 +1,4 @@
-Hi, I'm Kato (or Kato Vũ) 👋
+## Hi, I'm Kato (or Kato Vũ) 👋
 
 I'm a computer scientist, systems builder, and professional yapper. I grew up working in the rice fields of Vietnam before getting a scholarship to study abroad. 
 
